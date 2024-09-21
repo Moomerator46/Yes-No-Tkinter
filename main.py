@@ -1,4 +1,4 @@
-import tkinter
+import tkinter as th
 from tkinter import ttk
 from tkinter import messagebox
 import random
